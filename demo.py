@@ -1,1 +1,2 @@
-peint("first Git Project")
+print("first Git Project")
+print("new Commit from ashwani")
